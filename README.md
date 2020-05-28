@@ -31,7 +31,7 @@ non-guaranteed backward compatible API for
 Keep up-to-date with release announcements and security updates by subscribing
 to
 [announce@tensorflow.org](https://groups.google.com/a/tensorflow.org/forum/#!forum/announce).
-See all the [mailing lists](https://www.tensorflow.org/community/forums).
+See all the [mailing lists](https://www.tensorflow.org/community/forums)
 
 ## Install
 
